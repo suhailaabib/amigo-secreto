@@ -11,4 +11,10 @@
 
   ## Interfases executáveis
 
-  
+  ### Lista de amigos
+
+  <img src="https://github.com/suhailaabib/amigo-secreto/blob/main/Imagem/Lista.png" alt="Lista">
+
+  ### Sorteio
+
+  <img src="https://github.com/suhailaabib/amigo-secreto/blob/main/Imagem/Sorteio.png" alt="Sorteio">
