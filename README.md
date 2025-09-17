@@ -1,6 +1,6 @@
 # Praticando Logica de programação: Challenge amigo secreto!
 
-![Tela Inicial] (
+![Tela Inicial] (https://github.com/suhailaabib/amigo-secreto/blob/main/Imagem/Tela%20inicial.png)
 
 ## Funcionalidades
 
