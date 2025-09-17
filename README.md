@@ -9,7 +9,7 @@
 * Sortear aleatoriamente um amigo da lista.
 * Validação para não aceitar campo de texto vazio.
 
-  ## Interfases executáveis
+  ## Interfaces executáveis
 
   ### Lista de amigos
 
